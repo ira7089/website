@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/catherine-mitagvaria/static/css/main.1ab7575c.css",
+    "main.js": "/catherine-mitagvaria/static/js/main.d3036945.js",
+    "static/js/787.128fc6e9.chunk.js": "/catherine-mitagvaria/static/js/787.128fc6e9.chunk.js",
+    "static/media/project-one.png": "/catherine-mitagvaria/static/media/project-one.518fd9cd39cce7e84fe8.png",
+    "static/media/icon-black.png": "/catherine-mitagvaria/static/media/icon-black.1fb447cb08b07bec380c.png",
+    "static/media/github-pink.svg": "/catherine-mitagvaria/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "static/media/codepen-pink.svg": "/catherine-mitagvaria/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "index.html": "/catherine-mitagvaria/index.html",
+    "static/media/linkedin-pink.svg": "/catherine-mitagvaria/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.1ab7575c.css.map": "/catherine-mitagvaria/static/css/main.1ab7575c.css.map",
+    "main.d3036945.js.map": "/catherine-mitagvaria/static/js/main.d3036945.js.map",
+    "787.128fc6e9.chunk.js.map": "/catherine-mitagvaria/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab7575c.css",
+    "static/js/main.d3036945.js"
+  ]
+}
