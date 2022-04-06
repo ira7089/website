@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.1ab7575c.css",
-    "main.js": "/personal-portfolio/static/js/main.003f6a60.js",
+    "main.css": "/personal-portfolio/static/css/main.d363adb0.css",
+    "main.js": "/personal-portfolio/static/js/main.cd5ab531.js",
     "static/js/787.128fc6e9.chunk.js": "/personal-portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/project-one.png": "/personal-portfolio/static/media/project-one.518fd9cd39cce7e84fe8.png",
     "static/media/icon-black.png": "/personal-portfolio/static/media/icon-black.1fb447cb08b07bec380c.png",
+    "static/media/project-one.png": "/personal-portfolio/static/media/project-one.5a0c735189fb5157d8fb.png",
+    "static/media/project-three.png": "/personal-portfolio/static/media/project-three.1296df4c85d7abfbeb4b.png",
+    "static/media/project-two.png": "/personal-portfolio/static/media/project-two.f2bfd9d22f59a41cf3d6.png",
+    "static/media/project-four.png": "/personal-portfolio/static/media/project-four.6745d86f2cb26b143e7b.png",
     "static/media/github-pink.svg": "/personal-portfolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
     "static/media/codepen-pink.svg": "/personal-portfolio/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
     "index.html": "/personal-portfolio/index.html",
     "static/media/linkedin-pink.svg": "/personal-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
-    "main.1ab7575c.css.map": "/personal-portfolio/static/css/main.1ab7575c.css.map",
-    "main.003f6a60.js.map": "/personal-portfolio/static/js/main.003f6a60.js.map",
+    "main.d363adb0.css.map": "/personal-portfolio/static/css/main.d363adb0.css.map",
+    "main.cd5ab531.js.map": "/personal-portfolio/static/js/main.cd5ab531.js.map",
     "787.128fc6e9.chunk.js.map": "/personal-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ab7575c.css",
-    "static/js/main.003f6a60.js"
+    "static/css/main.d363adb0.css",
+    "static/js/main.cd5ab531.js"
   ]
 }
