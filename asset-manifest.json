@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.c56c4340.css",
+    "main.js": "/personal-portfolio/static/js/main.1892ba42.js",
+    "static/js/787.128fc6e9.chunk.js": "/personal-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/project-six.png": "/personal-portfolio/static/media/project-six.10fb7676f8b481524daa.png",
+    "static/media/project-four.png": "/personal-portfolio/static/media/project-four.0c82163b4921da505c3a.png",
+    "static/media/project-one.png": "/personal-portfolio/static/media/project-one.d6854d3084bb1878b04a.png",
+    "static/media/Ekaterine-Mitagvaria.pdf": "/personal-portfolio/static/media/Ekaterine-Mitagvaria.f3e266306c214b9b4c46.pdf",
+    "static/media/project-five.png": "/personal-portfolio/static/media/project-five.e1ac0e2884130a75ec9b.png",
+    "static/media/project-three.png": "/personal-portfolio/static/media/project-three.8a47902e69da84e7310d.png",
+    "static/media/project-two.png": "/personal-portfolio/static/media/project-two.f29c853e648db56ecc38.png",
+    "static/media/icon-black.png": "/personal-portfolio/static/media/icon-black.1fb447cb08b07bec380c.png",
+    "static/media/github-pink.svg": "/personal-portfolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
+    "static/media/codepen-pink.svg": "/personal-portfolio/static/media/codepen-pink.fd2bb2d813529dc2b2c48296c7adcf3b.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "static/media/linkedin-pink.svg": "/personal-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
+    "main.c56c4340.css.map": "/personal-portfolio/static/css/main.c56c4340.css.map",
+    "main.1892ba42.js.map": "/personal-portfolio/static/js/main.1892ba42.js.map",
+    "787.128fc6e9.chunk.js.map": "/personal-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56c4340.css",
+    "static/js/main.1892ba42.js"
+  ]
+}
