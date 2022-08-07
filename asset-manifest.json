@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.0af91803.css",
-    "main.js": "/personal-portfolio/static/js/main.eca92093.js",
+    "main.js": "/personal-portfolio/static/js/main.c5469ae3.js",
     "static/js/787.128fc6e9.chunk.js": "/personal-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/Ekaterine-Mitagvaria.pdf": "/personal-portfolio/static/media/Ekaterine-Mitagvaria.f3e266306c214b9b4c46.pdf",
     "static/media/icon-black.png": "/personal-portfolio/static/media/icon-black.3e5984feb9629d99995b.png",
@@ -18,11 +18,11 @@
     "index.html": "/personal-portfolio/index.html",
     "static/media/linkedin-pink.svg": "/personal-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.0af91803.css.map": "/personal-portfolio/static/css/main.0af91803.css.map",
-    "main.eca92093.js.map": "/personal-portfolio/static/js/main.eca92093.js.map",
+    "main.c5469ae3.js.map": "/personal-portfolio/static/js/main.c5469ae3.js.map",
     "787.128fc6e9.chunk.js.map": "/personal-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0af91803.css",
-    "static/js/main.eca92093.js"
+    "static/js/main.c5469ae3.js"
   ]
 }
