@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.0af91803.css",
-    "main.js": "/personal-portfolio/static/js/main.c5bd9f2e.js",
+    "main.js": "/personal-portfolio/static/js/main.e10af7aa.js",
     "static/js/787.128fc6e9.chunk.js": "/personal-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/icon-black.png": "/personal-portfolio/static/media/icon-black.3e5984feb9629d99995b.png",
+    "static/media/Ekaterine-Mitagvaria.pdf": "/personal-portfolio/static/media/Ekaterine-Mitagvaria.5a4b8216e43bfec902f1.pdf",
     "static/media/Forkify.jpeg": "/personal-portfolio/static/media/Forkify.a0eeb8a203f499d3982d.jpeg",
     "static/media/Bankist.jpeg": "/personal-portfolio/static/media/Bankist.7957967811a479c5370a.jpeg",
     "static/media/TravelWithCatherine.jpeg": "/personal-portfolio/static/media/TravelWithCatherine.ade16018fa58d077b071.jpeg",
     "static/media/Edgy.jpeg": "/personal-portfolio/static/media/Edgy.696f79da8aa8b1f98380.jpeg",
     "static/media/PizzaTime.jpeg": "/personal-portfolio/static/media/PizzaTime.58f8098d86147bcd7928.jpeg",
     "static/media/RestCountries.jpeg": "/personal-portfolio/static/media/RestCountries.24c4bad7db2b5553e71f.jpeg",
-    "static/media/Ekaterine-Mitagvaria.pdf": "/personal-portfolio/static/media/Ekaterine-Mitagvaria.de82818f7ac361678adc.pdf",
     "static/media/FrontendMentorSolutions.jpeg": "/personal-portfolio/static/media/FrontendMentorSolutions.83713ede616341e4b422.jpeg",
     "static/media/GuessMyNumber.jpeg": "/personal-portfolio/static/media/GuessMyNumber.26a0dead290e82d87904.jpeg",
     "static/media/github-pink.svg": "/personal-portfolio/static/media/github-pink.fca99db0960eca67e137a0d38741f5d2.svg",
@@ -18,11 +18,11 @@
     "index.html": "/personal-portfolio/index.html",
     "static/media/linkedin-pink.svg": "/personal-portfolio/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "main.0af91803.css.map": "/personal-portfolio/static/css/main.0af91803.css.map",
-    "main.c5bd9f2e.js.map": "/personal-portfolio/static/js/main.c5bd9f2e.js.map",
+    "main.e10af7aa.js.map": "/personal-portfolio/static/js/main.e10af7aa.js.map",
     "787.128fc6e9.chunk.js.map": "/personal-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0af91803.css",
-    "static/js/main.c5bd9f2e.js"
+    "static/js/main.e10af7aa.js"
   ]
 }
