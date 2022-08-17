@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0af91803.css",
-    "main.js": "/static/js/main.28c7e67c.js",
+    "main.js": "/static/js/main.18c86a49.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/icon-black.png": "/static/media/icon-black.3e5984feb9629d99995b.png",
     "static/media/Ekaterine-Mitagvaria.pdf": "/static/media/Ekaterine-Mitagvaria.5a4b8216e43bfec902f1.pdf",
@@ -18,11 +18,11 @@
     "static/media/linkedin-pink.svg": "/static/media/linkedin-pink.0170ec93bbe0fd3707cfa7e1666d0de5.svg",
     "index.html": "/index.html",
     "main.0af91803.css.map": "/static/css/main.0af91803.css.map",
-    "main.28c7e67c.js.map": "/static/js/main.28c7e67c.js.map",
+    "main.18c86a49.js.map": "/static/js/main.18c86a49.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0af91803.css",
-    "static/js/main.28c7e67c.js"
+    "static/js/main.18c86a49.js"
   ]
 }
