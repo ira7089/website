@@ -7,7 +7,7 @@ const Footer = () => {
         href="https://github.com/catherineisonline/"
         target="_blank"
         rel="noreferrer">
-        Designed & Built by Sophia &copy;2023
+        Designed & Built by Ira &copy;2024
       </a>
     </article>
   );

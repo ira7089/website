@@ -6,7 +6,7 @@ import { useEffect } from "react";
 import "./Portfolio.sass";
 const Portfolio = () => {
   useEffect(() => {
-    document.title = "Portfolio | Sophia Martinez";
+    document.title = "Portfolio | Ira Chandramouli";
     window.scrollTo(0, 0);
   })
   return (

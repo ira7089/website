@@ -1,6 +1,5 @@
 import { Footer } from "../../components/index.js";
 import Certifications from "./Certifications.js";
-import Languages from "./Languages.js";
 import Stack from "./Stack.js";
 import Education from "./Education.js";
 import Experience from "./Experience.js";
@@ -12,7 +11,7 @@ import "./About.sass";
 
 const About = () => {
   useEffect(() => {
-    document.title = "About | Sophia Martinez";
+    document.title = "About | Ira Chandramouli";
     window.scrollTo(0, 0);
   })
   return (
@@ -22,8 +21,6 @@ const About = () => {
       <DownloadResume />
       <Experience />
       <Education />
-      <Languages />
-      <DownloadResume />
       <Certifications />
       <ScrollButton />
       <Footer />
