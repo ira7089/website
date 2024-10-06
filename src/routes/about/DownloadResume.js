@@ -1,5 +1,5 @@
 import DownloadIcon from "../../assets/images/download-icon.png";
-import Resume from "../../assets/documents/Sophia-Martinez.pdf";
+import Resume from "../../assets/documents/Ira_Chandramouli.pdf";
 
 const DownloadResume = () => {
   return (
