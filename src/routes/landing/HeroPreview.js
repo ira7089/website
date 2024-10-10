@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 
 const HeroPreview = () => {
   return (
@@ -9,10 +8,6 @@ const HeroPreview = () => {
         <em className="pink-text"> Ira, </em>
         <br></br> Developer and Designer.
       </h1>
-      <p className="gray-text p-tag">Front End Development</p>
-      <Link className="pink-text" to="/portfolio">
-        Check my work
-      </Link>
     </article>
   );
 };

@@ -4,14 +4,14 @@ const NavigationSocials = () => {
   return (
     <section className="navigation__socials">
       <a
-        href="https://www.linkedin.com/in/catherinemitagvaria/"
+        href="https://www.linkedin.com/in/ira-chandra/"
         target="_blank"
         rel="noreferrer"
       >
         <img src={Linkedin} alt="LinkedIn profile" />
       </a>
       <a
-        href="https://github.com/catherineisonline"
+        href="https://github.com/ira7089"
         target="_blank"
         rel="noreferrer"
       >

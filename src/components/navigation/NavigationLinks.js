@@ -8,18 +8,6 @@ const NavigationLinks = (props) => {
   return (
     <section className="navigation__links">
       <NavLink
-        to="/"
-        className={({ isActive }) =>
-          "gray-text navigation__link" + (isActive ? " main-active" : "")
-        }
-        onClick={() => {
-          ScrollToTop();
-          props.closeMenu();
-        }}
-      >
-        Main
-      </NavLink>
-      <NavLink
         to="/about"
         onClick={() => {
           ScrollToTop();

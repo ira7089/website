@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <article className="footer">
       <a
-        href="https://github.com/catherineisonline/"
+        href="https://github.com/ira7089"
         target="_blank"
         rel="noreferrer">
         Designed & Built by Ira &copy;2024

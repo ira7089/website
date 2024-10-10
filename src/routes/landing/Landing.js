@@ -1,4 +1,3 @@
-import AboutPreview from "./AboutPreview";
 import HeroPreview from "./HeroPreview";
 import PortfolioPreview from "./PortfolioPreview";
 import ContactPreview from "./ContactPreview";
@@ -15,7 +14,6 @@ const Mainpage = () => {
   return (
     <main className="landing">
       <HeroPreview />
-      <AboutPreview />
       <PortfolioPreview />
       <ContactPreview />
       <ScrollButton />
